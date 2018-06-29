@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13906" started-at="2018-06-29T12:27:58Z" finished-at="2018-06-29T12:28:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13906" started-at="2018-06-29T12:27:58Z" finished-at="2018-06-29T12:28:12Z">
+      <class name="com.Hris.Testing.Hris_Testing">
+        <test-method status="PASS" signature="load_driver()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="load_driver" is-config="true" duration-ms="4481" started-at="2018-06-29T12:27:58Z" finished-at="2018-06-29T12:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load_driver -->
+        <test-method status="PASS" signature="Step_01_Open_Url()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_01_Open_Url" duration-ms="1432" started-at="2018-06-29T12:28:03Z" finished-at="2018-06-29T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_01_Open_Url -->
+        <test-method status="PASS" signature="Step_02_Open_Log_in_Panel()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_02_Open_Log_in_Panel" duration-ms="153" started-at="2018-06-29T12:28:04Z" finished-at="2018-06-29T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_02_Open_Log_in_Panel -->
+        <test-method status="PASS" signature="Step_03_Log_in_with_correct_username_and_password()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_03_Log_in_with_correct_username_and_password" duration-ms="1" started-at="2018-06-29T12:28:04Z" finished-at="2018-06-29T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_03_Log_in_with_correct_username_and_password -->
+        <test-method status="PASS" signature="Step_04_Log_In_with_Either_Username_or_Password_Incorrect()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_04_Log_In_with_Either_Username_or_Password_Incorrect" duration-ms="1" started-at="2018-06-29T12:28:04Z" finished-at="2018-06-29T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_04_Log_In_with_Either_Username_or_Password_Incorrect -->
+        <test-method status="PASS" signature="Step_05_Log_in_with_Username_and_Blank_password()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_05_Log_in_with_Username_and_Blank_password" duration-ms="2" started-at="2018-06-29T12:28:04Z" finished-at="2018-06-29T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_05_Log_in_with_Username_and_Blank_password -->
+        <test-method status="PASS" signature="Step_06_Log_in_with_Blank_Username_and_Password()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_06_Log_in_with_Blank_Username_and_Password" duration-ms="1" started-at="2018-06-29T12:28:04Z" finished-at="2018-06-29T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_06_Log_in_with_Blank_Username_and_Password -->
+        <test-method status="PASS" signature="Step_07_Log_in_with_correct_username_and_password_and_get_value_from_columns()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_07_Log_in_with_correct_username_and_password_and_get_value_from_columns" duration-ms="2" started-at="2018-06-29T12:28:04Z" finished-at="2018-06-29T12:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_07_Log_in_with_correct_username_and_password_and_get_value_from_columns -->
+        <test-method status="PASS" signature="Step_08_Successful_Logout()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="Step_08_Successful_Logout" duration-ms="7795" started-at="2018-06-29T12:28:04Z" finished-at="2018-06-29T12:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_08_Successful_Logout -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Hris.Testing.Hris_Testing@1bce4f0a]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-06-29T12:28:12Z" finished-at="2018-06-29T12:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.Hris.Testing.Hris_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
